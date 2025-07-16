@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+.env
+
+# production
+dist
+
+# misc
+.DS_Store
+.vscode
+*.log
+
+# system files
+Thumbs.db
